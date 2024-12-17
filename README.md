@@ -28,4 +28,4 @@ https://oguzturk.net/labs/demo/cookie/
 “dismiss”: “Accept All”, // Change the Confirmation Message
 
 “link”: “Oguzturk”, // Title of your cookie policy page
-“href”: “https://oguzturk.net” // Cookie policy page link
+“href”: https://oguzturk.net // Cookie policy page link
