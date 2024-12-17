@@ -1,2 +1,5 @@
 # cookie-consent
-Website Cookie Consent
+Website Cookie Consent Box
+
+Installation and Documentation:
+https://oguzturk.net/add-cookie-consent-to-website/
